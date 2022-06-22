@@ -1,0 +1,13 @@
+.cate_image{
+    width: 60px;
+}
+
+.form-select{
+
+font-size: 1.3rem;
+font-weight: 500;
+
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}

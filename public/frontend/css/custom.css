@@ -1,0 +1,11 @@
+.owl-carousel .owl-item img {
+
+    width: 50% !important;
+}
+.item .card{
+    height: 300px;
+}
+.checkout-form label{
+    font-weight: 600;
+    font-size: 14px;
+}
